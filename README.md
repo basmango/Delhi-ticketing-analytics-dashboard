@@ -1,6 +1,6 @@
 # Delhi-ticketing-analytics-dashboard
 
-This dashboard is built using Flask and React and is designed to showcase the demand pattern of Delhi's Bus service using ticketing data from an app. The dashboard consists of two submodules, one for the frontend built with React and the other for the backend built with Flask.
+This dashboard is built using Flask and React and is designed to showcase the demand pattern of Delhi's Bus service using ticketing data. The dashboard consists of two submodules, one for the frontend built with React and the other for the backend built with Flask.
 Getting Started
 
 ## Prerequisites
