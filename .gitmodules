@@ -1,0 +1,6 @@
+[submodule "network-analysis-dashboard-frontend"]
+	path = network-analysis-dashboard-frontend
+	url = git@github.com:basmango/network-analysis-dashboard-frontend.git
+[submodule "network-analysis-dashboard-backend"]
+	path = network-analysis-dashboard-backend
+	url = git@github.com:basmango/network-analysis-dashboard-backend.git
